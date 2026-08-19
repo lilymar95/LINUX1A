@@ -1,0 +1,60 @@
+Descargar Unbut y Virtual Box
+    UNBUT
+1. Entrar a la paguina oficial de Unbut
+2. Buscar la version Ubuntu 25.04 ISO
+Descargarlo en el formato que viene de ISO y esperar la Descargar
+
+    VIRTUAL BOX
+1. Entara al sitio oficial de Virtual Box
+2. Seleccionar la version del sistema operativo de la computadora que es Windows
+3. Descargarlo y esperar que se descargue y abrir el archivo que se descargo 
+4. Cuando aparezca la ventana de instalacion, avanzar por las ventanas de instalación presionando “Next” hasta llegar a la opción “Install”
+5. Presionar “Install” para comenzar la instalación de VirtualBox
+6. Esperar a que termine, presionar "Terminar" para cerrar el instalador y abrir Virtual Box
+
+    CREAR MAQUINA VIRTUAL
+1. Abrir Virtual Box
+2. Seleccionar "New" para crear una maquina virtual
+3. Colocar un nombre a la maquina virtual, en la parte de ISO Imagen, seleccionar el archivo de Ubuntu 25.04 ISO
+4. Contituar con "Siguiente", colocar un username y una contraseña y continuar con "Siguiente"
+5.Configurar en Base Memory 3000MB, 2 CPU y 25GB de espacio de almacenamiento para la maquina virtual, Despues seleccionar "Siguiente"
+6. Finalmente se selecciono "Terminar" para crear la maquina virtual
+
+    VISUAL STUDIO CODE
+1. Entrar al sitio oficial de Visual Studio Code.
+2. Descargar la versión de windows
+3. Abrir el archivo de instalación
+4. Aceptar los términos y condiciones
+5. Presionar Next en las ventanas de instalación y seleccionar las opciones adicionales que se requieran
+6. Presionar Install y esperar a que termine la instalación
+7. Presionar Finish y abrir Visual Studio Code
+8. Comprobar que el programa se ejecute correctamente
+
+    GIT
+1. Entrar al sitio oficial de Git
+2. Descargar la version windows
+3. Abrir el archivo descargado y comenzar la instalación
+4. Cuando aparezca la ventana de instalacion, avanzar por las ventanas de instalación presionando “Next” hasta llegar a la opción “Install”
+5. Presionar “Install” para comenzar la instalación de Git
+6. Esperar a que termine, presionar "Terminar" para cerrar el instalador
+
+    CREAR UNA CUENTA EN GitHub
+1. Entrar a la pagina de GitHub
+2. Presionar en Sign up, escribir un correo y crear una contraseña
+3. elegir un nombre de usario y seguir las instrucciones que muestre GitHub y verificar el correo electronico
+
+    CREAR UN REPOSITORIO EN GitHub
+1. Iniciar sesión
+2. En la esquina superior derecha buscar el boton de +
+3. Seleccionar en New Repository
+4. En Repository Name, escribir el nombre de LINUXIA1A
+5. en descripcion no colocar nada y en configuracion seleccionar en public, seleccionar en agregar README Y en agregar licencia seleccionar
+6. Finalmente presionar Create repository
+
+    CLONAR REPOSITORIO EN VISUAL STUDIO CODE
+1. Abrir Visual Studio Code
+2. Buscar el icono de Source Control y seleccionar Clone Repository
+3. Se abrira una barra arriba y en esa barra escibir Git:Clone y seleccionarlo
+4. Pegar la direccion del repositorio que se creo y darle en Enter
+5. Te aparecera una ventana en donde tienes que escoger en donde guardar la copia del repositorio, seleccionas guardar en el escritorio
+6. Te aparecera el repositorio que creaste, adentro del repositorio creas una carpeta con el nombre 01 - Practica y dentro de esa carpeta creas un archivo con nombre Guia.txt
