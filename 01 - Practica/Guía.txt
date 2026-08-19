@@ -55,6 +55,6 @@ Descargarlo en el formato que viene de ISO y esperar la Descargar
 1. Abrir Visual Studio Code
 2. Buscar el icono de Source Control y seleccionar Clone Repository
 3. Se abrira una barra arriba y en esa barra escibir Git:Clone y seleccionarlo
-4. Pegar la direccion del repositorio que se creo y darle en Enter
+4. Pegar la direccion del repositorio que se creo y le das Enter
 5. Te aparecera una ventana en donde tienes que escoger en donde guardar la copia del repositorio, seleccionas guardar en el escritorio
 6. Te aparecera el repositorio que creaste, adentro del repositorio creas una carpeta con el nombre 01 - Practica y dentro de esa carpeta creas un archivo con nombre Guia.txt
