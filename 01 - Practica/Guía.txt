@@ -58,3 +58,16 @@ Descargarlo en el formato que viene de ISO y esperar la Descargar
 4. Pegar la direccion del repositorio que se creo y le das Enter
 5. Te aparecera una ventana en donde tienes que escoger en donde guardar la copia del repositorio, seleccionas guardar en el escritorio
 6. Te aparecera el repositorio que creaste, adentro del repositorio creas una carpeta con el nombre 01 - Practica y dentro de esa carpeta creas un archivo con nombre Guia.txt
+
+    SUBIR LA GUIA DE VISUAL STUDIO CODE A GitHub
+1. Abrir Visual Studio Code y entrar a la carpeta del proyecto que contienen el archivo Guia.txt
+2. Abrir Source Control en el menú lateral izquierdo
+3. Revisar que aparezca el archivo Guia.txt como archivo modificado(Tiene que aparecer un numero)
+4. Presionar el boton + para agregar el archivo a "Staged Changes"
+5. Escribir un mensaje que diga "CREATE guia.txt" y presionar commit
+6. Al aparecer un aviso indicando que es necesario configurar la identidad de Gt, abrir la terminal de Visual Studio Code
+7. En la terminal, escribir el comando: git config -~global user.name "FIRST_NAME LAST_NAME", para confgurar el nombre de usario Git, cologando nuestro
+8. Despues escribir el comando: git config -~global user.email "MY_NAME@example.com", para configuara el correo electronico que urilizamos en GitHub
+9. Volver a Source Control y presional nuevamente Commit para guardar los cambios
+10. Despues aparecera Sync Changes y lo presionaremos para subir los cambios al repositorio de GitHub
+11. Entrar a GitHub e ingresar al repositorio que creamos anteriormente y comprobar que el archivo Guia.txt aparezca en el repositorio y que los cambios se hayan subido correctamente
