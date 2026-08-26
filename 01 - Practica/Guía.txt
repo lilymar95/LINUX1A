@@ -70,4 +70,4 @@ Descargarlo en el formato que viene de ISO y esperar la Descargar
 8. Despues escribir el comando: git config -~global user.email "MY_NAME@example.com", para configuara el correo electronico que urilizamos en GitHub
 9. Volver a Source Control y presional nuevamente Commit para guardar los cambios
 10. Despues aparecera Sync Changes y lo presionaremos para subir los cambios al repositorio de GitHub
-11. Entrar a GitHub e ingresar al repositorio que creamos anteriormente y comprobar que el archivo Guia.txt aparezca en el repositorio y que los cambios se hayan subido correctamente
+11. Entrar a GitHub e ingresar al repositorio que creamos anteriormente y comprobar que el archivo Guia.txt aparezca en el repositorio y que los cambios se hayan subido correctamente.
